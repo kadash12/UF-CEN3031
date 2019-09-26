@@ -1,0 +1,9 @@
+Johnny Li
+
+Bootcamp Assignment #1
+
+Link to repository: 
+https://github.com/UF-CEN3031-Spr2019/bootcamp-1-nodejs-kadash12
+
+GitHub name:
+kadash12
